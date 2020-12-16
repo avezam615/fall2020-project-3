@@ -1,0 +1,18 @@
+body{
+    background-image: url(/images/depositphotos_148283389-stock-illustration-video-game-seamless-background.jpg);
+    font-family: 'Orbitron', sans-serif;
+    color: white;
+
+}
+.media{
+    background-color:	black;
+}
+img{
+    background-color:white;
+}
+.card{
+    background-color: black;
+}
+.list-group-item {
+        background-color: 	black ; 
+}
